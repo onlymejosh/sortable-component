@@ -40,4 +40,4 @@ It takes the following options:
 * `origin` The dropzone the item belongs to.
 
 ## Take me to the demo already!
-[Here you go]()
+[Here you go](http://emberjs.jsbin.com/wotuxa)
